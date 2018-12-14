@@ -1,0 +1,3 @@
+Objetivo:
+Utilização de técnicas de Machine Learning através do Random Forests para analisar a base de dados HIV-1 disponível em https://archive.ics.uci.edu/ml/datasets/HIV-1+protease+cleavage visando definir se o seu resultado é positivo ou negativo. 
+A base disponibiliza 2 atributos, o primeiro sendo do tipo string com 8 caracteres e o segundo o resultado de diagnóstico. Espera-se que com a análise dos 8 caracteres string seja possível estimar qual seria o resultado da análise.
